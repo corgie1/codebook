@@ -1,0 +1,21 @@
+body {
+    background: rgb(255, 72, 246);
+    text-align: center;
+}
+
+div {
+    background: gray;
+    color: white;
+    padding: 1em;
+    margin: 2em;
+    width: 25em;
+    display: inline-block;
+    /* act like just another letter of text */
+    border-radius: 25em;
+
+
+}
+
+[contenteditable] {
+    outline: none;
+}   
